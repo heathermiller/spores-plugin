@@ -1,0 +1,4 @@
+<plugin>
+  <name>spores-plugin</name>
+  <classname>org.scalalang.spores.Plugin</classname>
+</plugin>
